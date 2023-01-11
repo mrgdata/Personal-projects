@@ -28,7 +28,7 @@ bias(b, a)
 
 # Se predice ligeramente mas de lo que en realidad sobrevivieron (-0.97) y la correlacion es moderada (0.60)
 
-# Si queremos saber si un pasajero determinado usamos predict(). Por ejemplo, una niña de 5 años de clase alta:
+# Si queremos saber si un pasajero determinado usamos predict(). Por ejemplo, una niÃ±a de 5 aÃ±os de clase alta:
 typeof(titanic_pred$Pclass)
 predict(object= arbol,
         df <- data.frame(Age=5, Sex="female", Pclass="3"),
@@ -53,7 +53,7 @@ perf2 <- performance(pred2, measure = "tpr", x.measure= "fpr")
 plot(perf2)
 
 # confirmamos lo anterior observando las ROCs
-plot(perf1, col= "blue", main="Azul: �rbol de decisi�n, Verde: logit")
+plot(perf1, col= "blue", main="Azul: logit, Verde: árbol de decisión")
 par(new=TRUE)
 plot(perf2, col = "forestgreen")
 
