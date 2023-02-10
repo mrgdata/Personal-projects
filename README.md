@@ -11,3 +11,6 @@
 
 ## 4. Network_Babel
 ### Se realiza una red entre las conexiones de los personajes de varios cuentos del literato ruso Isaak Bábel y se ajustan los nodos y los vínculos según estas
+
+## 5. custom.css
+### Entorno personalizado de jupyter modificando algunos detalles de "chesterish" de jupyterthemes
