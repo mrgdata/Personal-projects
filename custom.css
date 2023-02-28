@@ -3243,6 +3243,10 @@ div#maintoolbar {
     text-align: justify !important;
 }
 
+div#notebook-container {
+    width: 90%;
+}
+
 <script>
     MathJax.Hub.Config({
         "HTML-CSS": {
