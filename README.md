@@ -14,3 +14,6 @@
 
 ## 5. custom.css
 ### Entorno personalizado de jupyter modificando algunos detalles de "chesterish" de jupyterthemes
+
+## 6. script_predicción
+### Propuesta para la predicción de datos de vino del concurso University Datathon de Cajamar DataLab
