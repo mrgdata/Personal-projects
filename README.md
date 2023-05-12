@@ -17,3 +17,6 @@
 
 ## 6. script_predicción
 ### Propuesta para la predicción de datos de vino del concurso University Datathon de Cajamar DataLab
+
+## 7. summarization_app
+### App to summarize docx or pdf texts with huggingface transformers models (works better in English)
