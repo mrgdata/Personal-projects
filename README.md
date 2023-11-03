@@ -20,3 +20,6 @@
 
 ## 7. summarization_app
 ### App to summarize docx or pdf texts with huggingface transformers models (works better in English)
+
+## 8. Israel and Palestine - World Value Survey
+### WVS Data that show the different between the countries in some questions regarding gender equality and child independence
